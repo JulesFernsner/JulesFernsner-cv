@@ -1,2 +1,0 @@
-# pingpong
-Created with CodeSandbox
